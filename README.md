@@ -1,4 +1,5 @@
 🌐 Nizam Khan — Solutions Architect | .NET | Azure | AI
+
 👋 About Me
 
 I am a Solutions Architect with over 20 years of experience designing and delivering enterprise-grade solutions across industries.
