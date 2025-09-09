@@ -22,6 +22,7 @@ DevOps: GitHub Actions, Azure DevOps, Docker, Kubernetes
 AI & Data: Azure AI, Cognitive Services, IBM Data Science (Python, Pandas, Jupyter, MLflow)
 
 📌 Featured Projects
+
 🔹 .NET Microservices with Azure AKS
 
 Designed Clean Architecture microservices with individual SQL databases
