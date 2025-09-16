@@ -23,7 +23,12 @@ AI & Data: Azure AI, Cognitive Services, IBM Data Science (Python, Pandas, Jupyt
 
 📌 Featured Projects
 
-🔹 .NET Microservices with Azure AKS
+🔹 .NET Microservices with Azure AKS (VCA Software) [CODE UPLOAD IN PROGRESS]
+### 🔹 [Claims Microservices Demo](https://github.com/nizlt2014/VCA-demo))  
+- Migrated legacy ASP.NET app into **.NET 9 microservices**  
+- Uses **Dapper, RabbitMQ, Docker, AKS**  
+- CI/CD with GitHub Actions  
+
 
 Designed Clean Architecture microservices with individual SQL databases
 
